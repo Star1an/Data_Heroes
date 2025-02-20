@@ -141,4 +141,3 @@ plt.tight_layout()
 plt.show()
 
 unique_grops = sorted(data["group_ids"].unique())
-# print (f"Уникальные группы: {len(unique_grops)}")
